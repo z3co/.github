@@ -1,0 +1,4 @@
+{
+  "name": "CI"
+  "description": "Typechecks and lints t3-stack projects"
+}
